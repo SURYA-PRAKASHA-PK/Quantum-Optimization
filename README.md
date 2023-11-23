@@ -1,2 +1,1 @@
-# Quantum-Optimization
-This repository contains Quantum Optimization projects 
+This repository hosts projects related to Quantum Optimization.
